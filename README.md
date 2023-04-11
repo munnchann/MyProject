@@ -1,6 +1,17 @@
 .Mini project: CD Store online
-.Framework:
-- C#
-- SQL Server
+
+.Programming languages:
+
 - HTML/CSS
+
+- JavaScript
+
+- C#
+
+.Frameworks:
+
+- ASP.Net
+
+- JQuery
+
 .Project form: End of course exam
