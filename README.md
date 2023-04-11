@@ -8,10 +8,10 @@
 
 - C#
 
+- SQL Server
+
 .Frameworks:
 
 - ASP.Net
-
-- JQuery
 
 .Project form: End of course exam
